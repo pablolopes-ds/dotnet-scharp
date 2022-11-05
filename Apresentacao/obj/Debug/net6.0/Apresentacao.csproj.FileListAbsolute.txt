@@ -1,0 +1,15 @@
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.csproj.AssemblyReference.cache
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.AssemblyInfoInputs.cache
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.AssemblyInfo.cs
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet-csharp\Apresentacao\bin\Debug\net6.0\Apresentacao.exe
+C:\workspace\dotnet-csharp\Apresentacao\bin\Debug\net6.0\Apresentacao.deps.json
+C:\workspace\dotnet-csharp\Apresentacao\bin\Debug\net6.0\Apresentacao.runtimeconfig.json
+C:\workspace\dotnet-csharp\Apresentacao\bin\Debug\net6.0\Apresentacao.dll
+C:\workspace\dotnet-csharp\Apresentacao\bin\Debug\net6.0\Apresentacao.pdb
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.dll
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\refint\Apresentacao.dll
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.pdb
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\Apresentacao.genruntimeconfig.cache
+C:\workspace\dotnet-csharp\Apresentacao\obj\Debug\net6.0\ref\Apresentacao.dll
